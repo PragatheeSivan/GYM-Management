@@ -1,4 +1,4 @@
-const API_URL = 'https://gym-management-w38l.onrender.com/'
+const API_URL = 'https://gym-management-w38l.onrender.com/members/'
 // LOAD MEMBERS
 
 const getMembers = async () => {
