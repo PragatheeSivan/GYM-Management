@@ -1,5 +1,4 @@
-const API_URL = 'http://localhost:3000/members/'
-
+const API_URL = 'https://YOUR-RENDER-URL.onrender.com/members/'
 // LOAD MEMBERS
 
 const getMembers = async () => {
